@@ -5,8 +5,10 @@
 ╔════════════════════════╗
 ║ 😈 if you are bad then i'm your dad 😈║ ╚════════════════════════╝
 
-Skills: PYTHON /PHP/ REACT / JS / HTML / CSS
 https://user-images.githubusercontent.com/88397313/138573371-1f63f10e-00a8-43af-97d8-92d3a8cafa42.mp4
+
+Skills: PYTHON /PHP/ REACT / JS / HTML / CSS
+
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
